@@ -240,7 +240,7 @@ footer p a:hover {
     }
 }
 
-@media(max-width: 426px) {
+@media(max-width: 500px) {
     #register-container {
         flex-direction: column;
         margin: 0;
@@ -264,7 +264,7 @@ footer p a:hover {
     }
 }
 
-@media((min-width: 500px) and (max-width: 769px)) {
+@media((min-width: 600px) and (max-width: 769px)) {
     #register-container {
         max-width: 650px;
     }
